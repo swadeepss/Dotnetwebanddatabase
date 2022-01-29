@@ -51,4 +51,4 @@ https://www.youtube.com/watch?v=uVne2HXkWXI&list=PLpbcUe4chE78FEvDjD9zfzSGvsdkvk
 </a>
 
 Pipelines flows are sketched in this picture:
-<image src="https://github.com/HoussemDellai/WebAppWithDatabaseDemo/blob/master/docs/CI-CD-Pipelines.jpg?raw=true"/>
+<image src="https://github.com/HoussemDellai/WebAppWithDatabaseDemo/blob/master/docs/CI-CD-Pipelines.jpg?raw=true"/># Dotnetwebanddatabase
